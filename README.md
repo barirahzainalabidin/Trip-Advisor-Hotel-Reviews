@@ -43,13 +43,14 @@ Support Vector Machines (SVM): Particularly effective in high-dimensional spaces
 Random Forest: A robust ensemble method.
 Neural Networks (LSTM, GRU): Capable of capturing sequential dependencies in text.
 Transformer-based Models: Fine-tune models like BERT for text classification tasks.
-Model Evaluation:
 
+
+Model Evaluation:
 Use metrics such as accuracy, precision, recall, F1-score, and confusion matrix to evaluate the performance of the model.
 If using regression techniques, use metrics like Mean Absolute Error (MAE) or Root Mean Squared Error (RMSE).
+
+
 About the Dataset
-
-
 This dataset consists of 20,000 hotel reviews from TripAdvisor. Given the nature of the dataset, it's a rich resource for exploring what aspects make a hotel great and how these aspects influence customer satisfaction, as indicated by their ratings.
 
 
