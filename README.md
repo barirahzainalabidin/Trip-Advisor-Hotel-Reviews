@@ -230,9 +230,9 @@ Develop and execute a marketing strategy, including online advertising, social m
 Create content (e.g., blog posts, tutorials) that highlights the benefits of using the recommendation system.
 
 
+# 4. Link Project 
 
-# 4. Solution
-Implement referral programs and incentives to encourage user acquisition and retention.
+- https://www.kaggle.com/code/barirahzainal/trip-advisor-hotel-reviews
 
 
 
