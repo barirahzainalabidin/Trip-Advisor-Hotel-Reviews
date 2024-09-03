@@ -3,3 +3,9 @@ pandas>=1.2
 scikit-learn>=0.24
 matplotlib>=3.3
 numpy>=1.19
+nltk>=3.5
+textblob>=0.15
+wordcloud>=1.8  
+gensim>=4.0  
+joblib>=1.0 
+
