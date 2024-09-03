@@ -11,9 +11,6 @@
 https://trip-advisor-hotel-reviews-recommendation.streamlit.app/
 
 
-# 7 Days to finished these project 
-
-
 # Machine Learning Canvas Lists : 
 
 
