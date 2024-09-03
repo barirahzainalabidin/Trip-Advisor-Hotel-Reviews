@@ -1,6 +1,11 @@
 # Trip-Advisor-Hotel-Reviews
 
 
+# Link notebook :
+
+- https://www.kaggle.com/code/barirahzainal/trip-advisor-hotel-reviews
+
+
 # Machine Learning Canvas Lists : 
 
 
@@ -228,12 +233,6 @@ Tasks:
 
 Develop and execute a marketing strategy, including online advertising, social media engagement, and partnerships with travel platforms.
 Create content (e.g., blog posts, tutorials) that highlights the benefits of using the recommendation system.
-
-
-# 4. Link Project 
-
-- https://www.kaggle.com/code/barirahzainal/trip-advisor-hotel-reviews
-
 
 
 
