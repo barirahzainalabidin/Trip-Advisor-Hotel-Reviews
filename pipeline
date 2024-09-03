@@ -1,0 +1,9 @@
+Pipelines
+
+Read Data ---> Clean Data ---> Preprocessing Text ---> Keyword Extraction ---> Sentiment analysis ---> Word Cloud Visualization ---> Identify important words in each review 
+---> Use Latent Dirichlet Allocation (LDA) to discover hidden topics within the reviews. ---> Convert the text reviews into numeric features using TF-IDF 
+---> Explore converting the text into word embeddings using a pre-trained model. ---> Convert Reviews to Word Embeddings use gensim 
+---> Train a Word2Vec model using the tokenized reviews ---> Find words similar to a given word 
+---> Generate vectors for each review by averaging the word vectors for all words in a review ---> Similarity Analysis ---> Save and Load the Word2Vec Model 
+---> Group reviews into clusters and analyze the common themes in each cluster. ---> train sentiment analysis use accuracy metric ---> Review Similarity Search ---> Save The Model 
+---> Confusion Matrix
